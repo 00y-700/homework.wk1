@@ -8,3 +8,6 @@ The first link in the navigation bar for Search Engine Optimization was broken. 
 
 In the heading I made sure to have the instructions and links in the appropriate order. I changed the title from "Website" to "Horiseon"
 
+Link to site: https://00y-700.github.io/homework.wk1/
+
+<img src="assets/images/screenshot.png" alt="screen shot">
